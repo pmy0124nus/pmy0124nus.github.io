@@ -26,4 +26,4 @@ plugins:
 
 # Include index.md so it can render as home
 include:
-  - index.md
+  - _pages
