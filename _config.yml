@@ -10,7 +10,7 @@ search: false  # 不需要站内搜索可以关掉
 author:
   name: "Mingyu Pu"
   avatar: "/assets/images/pumingyu.png"
-  bio: "PhD student at NUS. Interested in GP, BO, and video models."
+  bio: "PhD student at NUS. Interested in Gaussian Process, and Bayesian Optimization."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
