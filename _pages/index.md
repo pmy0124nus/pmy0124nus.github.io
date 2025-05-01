@@ -10,7 +10,7 @@ My research focuses on **Gaussian Processes** and **Bayesian Optimization**.
 
 ---
 
-### 📄 Selected Publication
+### 📄 Publication
 
 **Weighted Euclidean Distance Matrices over Mixed Continuous and Categorical Inputs for Gaussian Process Models**  
 *Mingyu Pu*, Songhao Wang, Haowei Wang, Szu Hui Ng  
