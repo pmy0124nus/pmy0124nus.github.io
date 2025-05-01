@@ -15,7 +15,7 @@ My research focuses on **Gaussian Processes** and **Bayesian Optimization**.
 **Weighted Euclidean Distance Matrices over Mixed Continuous and Categorical Inputs for Gaussian Process Models**  
 *Mingyu Pu*, Songhao Wang, Haowei Wang, Szu Hui Ng  
 <em>Proceedings of AISTATS 2025</em>  
-[📄 arXiv](https://arxiv.org/abs/2503.02630) · [📎 BibTeX](https://arxiv.org/bibtex/2503.02630)
+[📄 arXiv](https://arxiv.org/abs/2503.02630) 
 
 > We propose a novel distance-based kernel for Gaussian Process modeling in mixed-input spaces.  
 > Our method constructs a weighted Euclidean distance matrix that jointly handles continuous and categorical inputs, improving predictive performance and kernel interpretability.
